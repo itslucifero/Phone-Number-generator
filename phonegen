@@ -30,7 +30,7 @@ print('--- CTRL + C to stop generating---')
 a = input('Your Choice : ')
 
 clear()
-print(custom_fig.renderText('hrackedz'))
+print(custom_fig.renderText('itslucifero'))
     
 try:
         if a == '1':
